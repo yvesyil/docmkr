@@ -1,0 +1,5 @@
+src/**
+img/**
+dist/**
+.vscode
+.DS_Store
