@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/yigityilmaz/Repos/docmkr'
+make: Nothing to be done for `pdf'.
+make: Leaving directory `/Users/yigityilmaz/Repos/docmkr'
+ 

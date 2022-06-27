@@ -1,0 +1,1 @@
+{"buildTargets":["clean","docx","html","pdf","print-%","super-clean"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
